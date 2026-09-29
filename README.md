@@ -1,2 +1,23 @@
 # fkssj
-疯狂水世界礼包码兑换
+《疯狂水世界》PC 端兑换码自动兑换工具 使用ChatGPT编写
+
+
+
+![疯狂水世界兑换工具界面](https://github.com/iosrjk/fkssj/blob/main/%E6%88%AA%E5%9B%BE.png)
+
+
+
+<video src="https://private-user-images.githubusercontent.com/213426213/660959299-fa327cf7-b721-44a8-ae9c-c9c4310264ed.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA2NjQyMzksIm5iZiI6MTc5MDY2MzkzOSwicGF0aCI6Ii8yMTM0MjYyMTMvNjYwOTU5Mjk5LWZhMzI3Y2Y3LWI3MjEtNDRhOC1hZTljLWM5YzQzMTAyNjRlZC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyOVQwNjM4NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjg2MWQxMTAwOWE1ZjQ1NzYwZmZmNDQ2ODEzZmRjZGE5MTlkMmYxMTFmYzUxODgxNDMzZjljMjg1YjI3ZjQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9dmlkZW8lMkZtcDQifQ.kFDLCcSRrJZSpddgSV8PntwR4O4T-xzrh7P1eWdugh4" controls="controls" width="500" height="300"></video>
+
+
+兑换码
+Wiki：https://numb9870.github.io/crazy-water-world/%E5%85%91%E6%8D%A2%E7%A0%81/
+
+
+
+## 免责声明
+
+本项目仅为技术研究与学习交流目的而开发，所有功能均基于对游戏协议的分析与探索。使用者应遵守以下原则：
+合法合规：禁止用于任何商业用途或游戏作弊行为；
+自我责任：使用本工具产生的任何风险由使用者自行承担；
+尊重版权：不得利用本项目侵犯游戏厂商合法权益。
