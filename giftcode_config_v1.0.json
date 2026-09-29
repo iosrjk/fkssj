@@ -1,0 +1,35 @@
+{
+  "coords": {
+    "gift_button": {
+      "x": "73",
+      "y": "620"
+    },
+    "game_input": {
+      "x": "205",
+      "y": "366"
+    },
+    "popup_input": {
+      "x": "185",
+      "y": "387"
+    },
+    "done_button": {
+      "x": "142",
+      "y": "451"
+    },
+    "confirm_button": {
+      "x": "213",
+      "y": "505"
+    },
+    "reward_close": {
+      "x": "194",
+      "y": "707"
+    }
+  },
+  "delay": "0.8",
+  "popup_wait": "0.8",
+  "reward_wait": "2.0",
+  "jitter_mode": "1",
+  "custom_jitter": "2",
+  "foreground_paste": true,
+  "auto_resize": true
+}
